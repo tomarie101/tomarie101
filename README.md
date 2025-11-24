@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a full-stack developer currently focused on strengthening my technical foundation and continuously learning new technologies to improve my skills and build high-quality applications.
+I'm currently focused on strengthening my technical foundation and continuously learning new technologies to improve my skills and build high-quality applications.
 
 
 ## 🌐 Socials:
